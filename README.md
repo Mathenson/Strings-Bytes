@@ -1,6 +1,6 @@
 ## String to Bytes and Vice Versa
 
-    This repository is explining and perfoming how we
+    This repository is explaining and perfoming how we
     can convert strings data types to bytes and vice versa
 
 # ParseBytes
